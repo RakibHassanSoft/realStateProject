@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa with view",
+      "segment_name": "Vacation",
+      "description": "Spacious luxury villa with stunning ocean view, located in a prime residential area. This luxurious property offers ample space and breathtaking vistas of the ocean, perfect for those seeking an upscale lifestyle. Priced at $2,500,000, this villa boasts 5000 sq ft of living space and is situated in Malibu, California. Key facilities include a spacious living room, swimming pool, and modern kitchen",
+      "price": 13000,
+      "status": "Sale",
+      "area": 5000,
+      "location": "California",
+      "facilities": ["Living Room", "Swimming Pool", "Kitchen"],
+      "image": "https://th.bing.com/th/id/R.53732c8de38c280d1c47bdb9db329331?rik=FgvSE7JiYjpwEg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "estate_title": "Modern Loft Apartment",
+      "segment_name": "SingleFamily",
+      "description": "Stylish loft apartment with contemporary design, perfect for urban living. This modern apartment offers an open floor plan and trendy amenities, making it ideal for young professionals or couples. Priced at $1,200,000, it features 1500 sq ft of living space and is located in Manhattan, New York. Key facilities include an open floor plan, gym, and rooftop deck.",
+      "price": 34000,
+      "status": "Sale",
+      "area": 1500 ,
+      "location": "New York",
+      "facilities": ["Open Floor Plan", "Gym", "Roof Deck"],
+      "image": "https://www.gapurabali.com/sites/default/files/dsc04277.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Cozy Suburban Home",
+      "segment_name": "JoinFamily",
+      "description": "Charming suburban home with a spacious backyard and beautiful landscaping. This cozy home offers a tranquil retreat from city life while still providing convenient access to amenities. Priced at $600,000, it features 2500 sq ft of living space and is situated in Austin, Texas. Key facilities include a backyard, garage, and fireplace.",
+      "price": 50000,
+      "status": "Sale",
+      "area": 2500 ,
+      "location": "Texas",
+      "facilities": ["Backyard", "Garage", "Fireplace"],
+      "image": "https://th.bing.com/th/id/R.9869cf60d233a288a29a0f7523fc4ae9?rik=w1%2b85tB9Woegtw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 4,
+      "estate_title": "Luxury Beachfront Condo",
+      "segment_name": "SingleFamilty",
+      "description": "Exquisite beachfront condo with panoramic views of the ocean and resort-style amenities. This luxurious condo offers unparalleled beachfront living with access to exclusive amenities. Priced at $3,000,000, it boasts 3500 sq ft of living space and is located in Miami Beach, Florida. Key facilities include beach access, a spa, and concierge service.",
+      "price": 90000,
+      "status": "Sale",
+      "area": 3500,
+      "location": "Florida",
+      "facilities": ["Beach Access", "Spa", "Concierge Service"],
+      "image": "https://th.bing.com/th/id/R.a04e983800e83bef89649473ec28394f?rik=8LSmBGmw2cQEgw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 5,
+      "estate_title": "Downtown Office Space",
+      "segment_name": "HoseWithOffice",
+      "description": " Prime office space located in the heart of the downtown business district. This centrally located office offers convenience and accessibility for businesses looking to establish a presence in the city. Available for rent at $5,000 per month, it features 2000 sq ft of space and is situated in Chicago, Illinois. Key facilities include conference rooms, high-speed internet, and 24/7 security.",
+      "price": 34540,
+      "status": "Rent",
+      "area": 2000,
+      "location": "Illinois",
+      "facilities": ["Conference Rooms", "High-speed Internet", "24/7 Security"],
+      "image": "https://www.schiavello.com/__data/assets/image/0021/41808/lonelyplanet-7.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Industrial Warehouse",
+      "segment_name": "HouseWithShop",
+      "description": "Spacious industrial warehouse with easy access to major highways and transportation. Ideal for businesses requiring ample storage and distribution space, this warehouse offers functionality and convenience. Available for rent at $10,000 per month, it features 50000 sq ft of space and is located in Los Angeles, California. Key facilities include loading docks, a large parking area, and heavy-duty equipment.",
+      "price": 10000,
+      "status": "Rent",
+      "area": 50000,
+      "location": "California",
+      "facilities": ["Loading Docks", "Large Parking Area", "Heavy-duty Equipment"],
+      "image": "https://th.bing.com/th/id/R.38d2990b60ef236ee0fc31bbf4fd5330?rik=dsFPJmDr0K%2bKFg&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 7,
+      "estate_title": "Retail Storefront",
+      "segment_name": "HouseWithShop",
+      "description": "Prime retail storefront in a high-traffic shopping district, suitable for various businesses. This storefront offers excellent visibility and foot traffic, making it an ideal location for retail ventures. Available for rent at $8,000 per month, it features 1000 sq ft of space and is situated in San Francisco, California. Key facilities include storefront display, street parking, and a security system.",
+      "price": 8000,
+      "status": "Rent",
+      "area": 10000,
+      "location": "California",
+      "facilities": ["Storefront Display", "Street Parking", "Security System"],
+      "image": "https://monarch.build/wp-content/uploads/2021/12/RM-6427-1.jpg"
+    },
+    {
+      "id": 8,
+      "estate_title": "Luxury Hotel & Resort",
+      "segment_name": "Vacation",
+      "description": "Exclusive luxury hotel and resort offering unparalleled amenities and world-class service. This luxurious property provides an unforgettable experience for guests seeking ultimate relaxation and indulgence. Pricing is available upon request, and it features 20000 sq ft of space. Located in Maui, Hawaii, key facilities include an infinity pool, fine dining restaurants, and a spa & wellness center.",
+      "price": 12000,
+      "status": "Sale",
+      "area": 20000 ,
+      "location": "Hawaii",
+      "facilities": ["Infinity Pool", "Fine Dining Restaurants", "Spa & Wellness Center"],
+      "image": "https://i.pinimg.com/originals/e4/5d/cd/e45dcd55833df27913fb9da7a8108414.jpg"
+    },
+    {
+      "id": 9,
+      "estate_title": "Mountain Retreat Lodge",
+      "segment_name": "ColdHouse",
+      "description": " Secluded mountain lodge retreat surrounded by breathtaking natural scenery. This rustic lodge offers a tranquil escape for nature enthusiasts and outdoor adventurers. Pricing is available upon request, and it features 5000 sq ft of space. Located in Aspen, Colorado, key facilities include hiking trails, a fire pit, and rustic cabin accommodations.",
+      "price": 560000,
+      "status": "Sale",
+      "area": 5000 ,
+      "location": "Colorado",
+      "facilities": ["Hiking Trails", "Fire Pit", "Rustic Cabin Accommodations"],
+      "image": "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.mountainliving.com/content/uploads/2020/12/36-Quartz-AR-198-0244-scaled-e1607551596123-2048x1157.jpg"
+    },
+    {
+      "id": 10,
+      "estate_title": "Beachfront Resort",
+      "segment_name": "SingleFamilty",
+      "description": "Premium beachfront resort with luxury accommodations and direct beach access. This upscale resort offers an idyllic setting for relaxation and recreation by the sea. Pricing is available upon request, and it features 10000 sq ft of space. Located in Phuket, Thailand, key facilities include a private beach, fine dining restaurants, and water sports activities.",
+      "price": 670000,
+      "status": "Sale",
+      "area": 10000 ,
+      "location": "Thailand",
+      "facilities": ["Private Beach", "Fine Dining Restaurants", "Water Sports Activities"],
+      "image": "https://th.bing.com/th/id/R.93fa0dd4873a8a9525bccac8fbad95e1?rik=eaqWLQfKFhMayw&pid=ImgRaw&r=0"
+    }
+  ]
+  
